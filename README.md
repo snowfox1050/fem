@@ -1,2 +1,2 @@
 # fem
-senda_lab_structure_programs
+泉田研B4藤原の有限要素法プログラムディレクトリ。
